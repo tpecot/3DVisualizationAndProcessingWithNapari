@@ -11,7 +11,7 @@ A pdf introduces important notions and shows instructions for hands on. The imag
 
 # Citations
 If you use Napari, please cite: <br> 
-Napari contributors (2019): [Napari: a multi-dimensional image viewer for python](https://doi:10.5281/zenodo.3555620) <br><br> 
+Napari contributors (2019): [Napari: a multi-dimensional image viewer for python](https://zenodo.org/records/13309520) <br><br> 
 If you use Stardist, please cite : <br>
 Schmidt et al. (2018): [Cell detection with Star-convex polygons](https://doi.org/10.1007/978-3-030-00934-2_30) <br><br> 
 If you use Cellpose, please cite : <br>
