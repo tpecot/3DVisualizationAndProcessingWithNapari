@@ -3,7 +3,7 @@ This is a 2-day workshop focusing on the visualization and processing of multi-d
 
 Participants learn how to create a Python virtual environment to install Napari and Napari plugins, to convert very large image volumes into zarr format to be visualized on any computer, to annotate 3D regions, to create animations, to segment nuclei and cells in 3D with deep learning methods Stardist and Cellpose, to classify voxels and 3D objects (shallow machine learning), to create and apply a whole pipeline with Napari assistant.
 
-A pdf introduces important notions and shows instructions for hands on. The images used in these sessions are available at https://zenodo.org/records/3981193, at https://osf.io/uzq3w/, at https://git.mpi-cbg.de/rhaase/clij2_example_data/blob/master/lund1051_resampled.tif and at https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1077?query=brain%20microscopy%20fluorescence.
+VirtualEnvironmentRequirements.pdf shows all necessary command lines to define the virtual environment used during the workshop. Napari.pdf introduces important notions and shows instructions for hands on. The images used in these sessions are available at https://zenodo.org/records/3981193, at https://osf.io/uzq3w/, at https://git.mpi-cbg.de/rhaase/clij2_example_data/blob/master/lund1051_resampled.tif and at https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1077?query=brain%20microscopy%20fluorescence.
 
 
 # Video tutorials
