@@ -7,7 +7,17 @@ VirtualEnvironmentRequirements.pdf shows all necessary command lines to define t
 
 
 # Video tutorials
-
+[Napari - virtual environment for workshop](https://youtu.be/_mxiVa2cG0o) <br>
+[Napari - zarr conversion](https://youtu.be/PoG33UtTa-o) <br>
+[Napari - interface](https://youtu.be/Of6lAm1nbcc) <br>
+[Napari - manual annotations](https://youtu.be/uBEri63S8yQ) <br>
+[Napari - interpolating annotations](https://youtu.be/V-gMbu6E6ao) <br>
+[Napari - object measurements](https://youtu.be/m7EDtnqVIPo) <br>
+[Napari - recording a movie](https://youtu.be/Yo8_uuH-gXo) <br>
+[Napari - Stardist](https://youtu.be/Ujw0hFYbUDA) <br>
+[Napari - Cellpose](https://youtu.be/bbcLt4BuMXo) <br>
+[Napari - pixel classification](https://youtu.be/hWjrWgn6L9Y) <br>
+[Napari - pipelines with Napari assistant](https://youtu.be/JaYTMLw0HfA) <br>
 
 # Citations
 If you use Napari, please cite: <br> 
